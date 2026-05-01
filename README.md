@@ -1,17 +1,26 @@
-# country_explorer_map
+# Country Explorer Map
 
-A new Flutter project.
+## Name
+PETER KORU
 
-## Getting Started
+## Student ID
+ATE/1191/15
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Description
+Country Explorer Map is a Flutter application that allows users to explore countries using an API. Users can search for countries, view detailed information such as population, region, capital, and explore data through a clean and responsive UI.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Features
+- Search countries by name
+- View detailed country information
+- Loading state while fetching data
+- Error handling for failed requests
+- Retry functionality for network errors
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup Instructions
+1. Run: flutter pub get
+2. Run: flutter run
+
+## Limitations
+- Requires internet connection
+- API rate limits may affect requests
